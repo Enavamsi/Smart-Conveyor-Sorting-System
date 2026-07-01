@@ -21,14 +21,10 @@ This project features a laboratory-scale, automated conveyor-based material sort
 
 ---
 
-## 🖼️ Media & Architecture 
 
 ### System Block Diagram & Control Flow
-> <img width="1024" height="1536" alt="Sor
+<img width="1024" height="1536" alt="FLow" src="https://github.com/user-attachments/assets/d27b85a5-5f8e-4c1a-ae73-0c7c7590bb51" />
 
-https://github.com/user-attachments/assets/2437077e-6baa-48be-9ab9-ae75fe39e757
-
-" src="https://github.com/user-attachments/assets/0414c7a6-23f6-40f7-95b3-c78e53538bd7" />
 
 
 
